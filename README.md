@@ -1,0 +1,2 @@
+# iOS-Mobile-App
+Developed a simple/user-friendly iOS mobile application which helps user manage bills efficiently. This consists of features like creating user accounts, log-in/logout, checking/updating paid and unpaid monthly bills, adding/deleting daily costs, setting reminders, instant pay which redirects to the respective payment websites and viewing previous months savings etc.  Tools and Programming Languages: Swift3, XCode 8, SQLite database 
